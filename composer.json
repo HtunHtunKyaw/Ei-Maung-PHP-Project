@@ -1,0 +1,16 @@
+{
+    "name": "htunhtunkyaw/php-project",
+    "authors": [
+        {
+            "name": "Htun Htun Kyaw",
+            "email": "tuntunkyaw111@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Libs\\": "_classes/Libs/",
+            "Helpers\\": "_classes/Helpers/"
+        }
+    }
+}
